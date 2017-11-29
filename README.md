@@ -1,2 +1,0 @@
-# Nikhil
-angular project
